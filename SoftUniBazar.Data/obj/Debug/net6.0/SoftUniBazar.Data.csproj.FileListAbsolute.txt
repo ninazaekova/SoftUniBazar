@@ -1,0 +1,14 @@
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.deps.json
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.runtimeconfig.json
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.dll
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.pdb
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.csproj.AssemblyReference.cache
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.AssemblyInfo.cs
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.dll
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\refint\SoftUniBazar.Data.dll
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.pdb
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.genruntimeconfig.cache
+C:\Users\Nina\Desktop\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\ref\SoftUniBazar.Data.dll
